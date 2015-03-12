@@ -1,0 +1,1 @@
+curl -D- -u leszcz01:"Dupad123$%^&*" -X POST --data-binary "@C:\Users\piotr.leszczynski\Documents\GitHub\utils\jira_utils\mnt_deploy.json"  -H "Content-Type: application/json" http://devapps.lumesse.com/jira/rest/api/2/issue/

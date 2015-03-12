@@ -1,0 +1,18 @@
+{
+    "fields": {
+       "project":
+       { 
+           "key": "DEVOPS"
+       },
+       "summary": "Please trigger a build to MNT from branch 14.1 head.",
+       "description": "Please trigger a build to MNT from branch 14.1 head.",
+       "issuetype": 
+	   {
+           "name": "Task"
+       },
+	   "priority": 
+	   {
+			"id" : "1"
+	   }
+   }
+}
